@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "981929082511",
+    "firebase_url": "https://tictactoeapp-9117d-default-rtdb.firebaseio.com",
+    "project_id": "tictactoeapp-9117d",
+    "storage_bucket": "tictactoeapp-9117d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981929082511:android:68f65f6e423f07c042bafa",
+        "android_client_info": {
+          "package_name": "com.betowalkerdev.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMBQ8L-alti-FwoYz2UGGoBa2NO2SmtKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
